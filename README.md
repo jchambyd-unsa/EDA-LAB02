@@ -1,1 +1,2 @@
-# EDA-LAB02
+# EDA-LAB-02
+Técnicas y diseño de algoritmos
